@@ -14,6 +14,7 @@ laravel dasar tanpa pustaka pihak ketiga
 - [ ] dependency injection architecture
 - [ ] eloquent hasone, hasmany, belongsto
 - [ ] migration, factory, seeder
+- [ ] unit test
 
 ## support
 
